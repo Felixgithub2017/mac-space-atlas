@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# 构建产物（用 build-mac-app.sh 重新生成）
+空间地图.app/
+*.app/
+NativeApp/icon-1024.png
